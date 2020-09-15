@@ -7,9 +7,9 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+홈
 </h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+<button type="button" onclick="location.href='loginform'">로그인</button>
+<button>회원가입</button>
 </body>
 </html>
